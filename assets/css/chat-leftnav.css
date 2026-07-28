@@ -677,6 +677,7 @@ body.mini-sidebar .sp-offer-dot {
   width: 20px;
   height: 20px;
   display: block;
+  margin-top: 15px;
 }
 
 #mobile_right_btn svg {
